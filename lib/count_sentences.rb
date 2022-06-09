@@ -21,6 +21,7 @@ class String
         array.delete(word)
       end
     end
+    
     array.size
   end
 end
